@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Grinning Face",
+    "category": "Smileys",
+    "unicode": "😀",
+    "description": "A typical smiley face showing happiness."
+  },
+  {
+    "id": 2,
+    "name": "Thumbs Up",
+    "category": "Gestures",
+    "unicode": "👍",
+    "description": "A hand showing approval or encouragement."
+  }
+]
