@@ -2,15 +2,177 @@
   {
     "id": 1,
     "name": "Grinning Face",
-    "category": "Smileys",
+    "category": "Smileys & Emotion",
     "unicode": "😀",
-    "description": "A typical smiley face showing happiness."
+    "description": "A classic smiling face showing happiness or positivity."
   },
   {
     "id": 2,
+    "name": "Smiling Face with Heart-Eyes",
+    "category": "Smileys & Emotion",
+    "unicode": "😍",
+    "description": "Represents love, adoration, or admiration for someone or something."
+  },
+  {
+    "id": 3,
+    "name": "Rolling on the Floor Laughing",
+    "category": "Smileys & Emotion",
+    "unicode": "🤣",
+    "description": "Used to show hysterical laughter or amusement."
+  },
+  {
+    "id": 4,
+    "name": "Thinking Face",
+    "category": "Smileys & Emotion",
+    "unicode": "🤔",
+    "description": "Used to express curiosity or deep thought."
+  },
+  {
+    "id": 5,
+    "name": "Crying Face",
+    "category": "Smileys & Emotion",
+    "unicode": "😢",
+    "description": "Represents sadness or emotional pain."
+  },
+  {
+    "id": 6,
+    "name": "Face with Tears of Joy",
+    "category": "Smileys & Emotion",
+    "unicode": "😂",
+    "description": "Represents laughter, amusement, or something funny."
+  },
+  {
+    "id": 7,
+    "name": "Smiling Face with Sunglasses",
+    "category": "Smileys & Emotion",
+    "unicode": "😎",
+    "description": "Represents confidence or coolness."
+  },
+  {
+    "id": 8,
+    "name": "Angry Face",
+    "category": "Smileys & Emotion",
+    "unicode": "😠",
+    "description": "Conveys anger, frustration, or displeasure."
+  },
+  {
+    "id": 9,
+    "name": "Zany Face",
+    "category": "Smileys & Emotion",
+    "unicode": "🤪",
+    "description": "Used for silliness, goofiness, or acting crazy."
+  },
+  {
+    "id": 10,
+    "name": "Smiling Face with Halo",
+    "category": "Smileys & Emotion",
+    "unicode": "😇",
+    "description": "Represents innocence, good behavior, or being angelic."
+  },
+  {
+    "id": 11,
     "name": "Thumbs Up",
-    "category": "Gestures",
+    "category": "People & Body",
     "unicode": "👍",
-    "description": "A hand showing approval or encouragement."
+    "description": "A hand giving approval or encouragement."
+  },
+  {
+    "id": 12,
+    "name": "Folded Hands",
+    "category": "People & Body",
+    "unicode": "🙏",
+    "description": "Represents prayer, gratitude, or a respectful greeting."
+  },
+  {
+    "id": 13,
+    "name": "Clapping Hands",
+    "category": "People & Body",
+    "unicode": "👏",
+    "description": "Used to show applause, appreciation, or congratulations."
+  },
+  {
+    "id": 14,
+    "name": "Raising Hands",
+    "category": "People & Body",
+    "unicode": "🙌",
+    "description": "Celebration or praise; often used to express joy or excitement."
+  },
+  {
+    "id": 15,
+    "name": "Flexed Biceps",
+    "category": "People & Body",
+    "unicode": "💪",
+    "description": "Represents strength, power, or confidence."
+  },
+  {
+    "id": 16,
+    "name": "Waving Hand",
+    "category": "People & Body",
+    "unicode": "👋",
+    "description": "Used for greeting or saying goodbye."
+  },
+  {
+    "id": 17,
+    "name": "Writing Hand",
+    "category": "People & Body",
+    "unicode": "✍️",
+    "description": "Represents writing, journaling, or note-taking."
+  },
+  {
+    "id": 18,
+    "name": "OK Hand",
+    "category": "People & Body",
+    "unicode": "👌",
+    "description": "Represents approval, agreement, or that everything is fine."
+  },
+  {
+    "id": 19,
+    "name": "Raised Fist",
+    "category": "People & Body",
+    "unicode": "✊",
+    "description": "Represents solidarity, strength, or empowerment."
+  },
+  {
+    "id": 20,
+    "name": "Handshake",
+    "category": "People & Body",
+    "unicode": "🤝",
+    "description": "Used to represent cooperation or an agreement."
+  },
+  {
+    "id": 21,
+    "name": "Laptop Computer",
+    "category": "Objects",
+    "unicode": "💻",
+    "description": "Represents technology, computing, or working remotely."
+  },
+  {
+    "id": 22,
+    "name": "Light Bulb",
+    "category": "Objects",
+    "unicode": "💡",
+    "description": "Symbolizes creativity, new ideas, or inspiration."
+  },
+  {
+    "id": 23,
+    "name": "Rocket",
+    "category": "Objects",
+    "unicode": "🚀",
+    "description": "Symbolizes fast progress, ambition, or space travel."
+  },
+  {
+    "id": 24,
+    "name": "Book",
+    "category": "Objects",
+    "unicode": "📖",
+    "description": "Represents learning, knowledge, or storytelling."
+  },
+  {
+    "id": 25,
+    "name": "Camera",
+    "category": "Objects",
+    "unicode": "📷",
+    "description": "Represents photography, creativity, or capturing memories."
   }
 ]
+
